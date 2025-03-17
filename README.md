@@ -1,1 +1,1 @@
-# aws-eks-production-ready-3-tier
+# aws-eks-production-ready-terraform-github-actions
